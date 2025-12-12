@@ -1,0 +1,7 @@
+outputs/*
+!outputs/overlay.png
+!outputs/.gitkeep
+
+# ignore OCR text outputs
+outputs/*.json
+outputs/*.csv
