@@ -1,0 +1,3 @@
+- Segmentation method: adaptive threshold + morphology + contours
+- OCR engine: Tesseract (pytesseract)
+- Known limitations: skewed scans, low resolution, handwritten text

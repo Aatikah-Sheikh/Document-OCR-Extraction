@@ -1,0 +1,202 @@
+[
+  {
+    "region_id": 1,
+    "x": 1305,
+    "y": 7,
+    "w": 78,
+    "h": 25,
+    "text": "ORFS"
+  },
+  {
+    "region_id": 2,
+    "x": 86,
+    "y": 51,
+    "w": 259,
+    "h": 19,
+    "text": "No preference (Default subnet in any availability zone)"
+  },
+  {
+    "region_id": 3,
+    "x": 901,
+    "y": 64,
+    "w": 94,
+    "h": 26,
+    "text": "yy Summary"
+  },
+  {
+    "region_id": 4,
+    "x": 83,
+    "y": 80,
+    "w": 134,
+    "h": 22,
+    "text": "Aute-assign public IP int"
+  },
+  {
+    "region_id": 5,
+    "x": 900,
+    "y": 100,
+    "w": 135,
+    "h": 20,
+    "text": "Number of instances inf"
+  },
+  {
+    "region_id": 6,
+    "x": 83,
+    "y": 137,
+    "w": 553,
+    "h": 72,
+    "text": "Firewall (security groups) info\nsecu groupis ase of rewoluesthat contra th raf for yur stance. Ad resto alopecia to ech your insta\n© create security group | © Select existing security group |"
+  },
+  {
+    "region_id": 7,
+    "x": 902,
+    "y": 181,
+    "w": 215,
+    "h": 53,
+    "text": "Software Image (AMI)\nAmazon Linux 2023 AM! 2023.92...read mor\nai-074687850C073060"
+  },
+  {
+    "region_id": 8,
+    "x": 369,
+    "y": 184,
+    "w": 145,
+    "h": 21,
+    "text": "Select existing security group"
+  },
+  {
+    "region_id": 9,
+    "x": 85,
+    "y": 224,
+    "w": 390,
+    "h": 19,
+    "text": "We'll create a new security group called ‘launch-wlzard-3' with the following rules"
+  },
+  {
+    "region_id": 10,
+    "x": 82,
+    "y": 250,
+    "w": 142,
+    "h": 28,
+    "text": "‘Allow SSH traffic from"
+  },
+  {
+    "region_id": 11,
+    "x": 906,
+    "y": 255,
+    "w": 162,
+    "h": 35,
+    "text": "Virtual server type (instance type\nSiero"
+  },
+  {
+    "region_id": 12,
+    "x": 355,
+    "y": 259,
+    "w": 51,
+    "h": 23,
+    "text": ""
+  },
+  {
+    "region_id": 13,
+    "x": 102,
+    "y": 304,
+    "w": 225,
+    "h": 27,
+    "text": "Allow HTTPS traffic from the internet"
+  },
+  {
+    "region_id": 14,
+    "x": 902,
+    "y": 312,
+    "w": 120,
+    "h": 36,
+    "text": "Firewall (security group\nNew security group"
+  },
+  {
+    "region_id": 15,
+    "x": 102,
+    "y": 349,
+    "w": 224,
+    "h": 28,
+    "text": "Allow HTTP traffic from the internet"
+  },
+  {
+    "region_id": 16,
+    "x": 907,
+    "y": 368,
+    "w": 90,
+    "h": 36,
+    "text": "torage (volurnes)\n| volumels) - 8 GiB."
+  },
+  {
+    "region_id": 17,
+    "x": 1130,
+    "y": 434,
+    "w": 146,
+    "h": 48,
+    "text": ""
+  },
+  {
+    "region_id": 18,
+    "x": 85,
+    "y": 440,
+    "w": 162,
+    "h": 30,
+    "text": "¥ Configure storage i"
+  },
+  {
+    "region_id": 19,
+    "x": 324,
+    "y": 485,
+    "w": 220,
+    "h": 20,
+    "text": "y Root volume, 300010PS, Not encrypted"
+  },
+  {
+    "region_id": 20,
+    "x": 182,
+    "y": 486,
+    "w": 54,
+    "h": 22,
+    "text": "GiB gp3"
+  },
+  {
+    "region_id": 21,
+    "x": 1153,
+    "y": 489,
+    "w": 99,
+    "h": 16,
+    "text": "‘G! Preview code"
+  },
+  {
+    "region_id": 22,
+    "x": 96,
+    "y": 551,
+    "w": 98,
+    "h": 30,
+    "text": "‘Add new volume"
+  },
+  {
+    "region_id": 23,
+    "x": 84,
+    "y": 608,
+    "w": 532,
+    "h": 39,
+    "text": "® Click refresh to view backup information\nThe tags that you assign determine whether the instance will be backed up by any Data Lifecycle Manager polici"
+  },
+  {
+    "region_id": 24,
+    "x": 93,
+    "y": 668,
+    "w": 65,
+    "h": 18,
+    "text": "x File system:"
+  },
+  {
+    "region_id": 25,
+    "x": 84,
+    "y": 739,
+    "w": 158,
+    "h": 26,
+    "text": "> Advanced details 101"
+  }
+]
